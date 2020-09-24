@@ -1,7 +1,7 @@
 # Tarefa 01
 
-Para acessar o notebook clique aqui [a relative link](notebook/data-api-python.ipynb)
+Para acessar o notebook clique [aqui](notebook/data-api-python.ipynb)
 
 # Tarefa 02
 
-![bd](/images/bd.PNG)
+![bd](/images/bd.png)
