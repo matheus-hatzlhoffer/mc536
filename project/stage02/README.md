@@ -2,7 +2,7 @@
 
 ### Slides
 
-[slides] (https://github.com/matheus-hatzlhoffer/mc536/blob/master/project/stage02/Proposta%20Projeto%20Banco%20de%20Dados.pdf)
+[slides](https://github.com/matheus-hatzlhoffer/mc536/blob/master/project/stage02/Proposta%20Projeto%20Banco%20de%20Dados.pdf)
 
 ### Motivação e contexto
 
