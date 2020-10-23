@@ -2,11 +2,7 @@
 
 ### Slides
 
-<<<<<<< HEAD
 [slides](https://github.com/matheus-hatzlhoffer/mc536/blob/master/project/stage02/Proposta%20Projeto%20Banco%20de%20Dados.pdf)
-=======
-[slides](link dos lides)
->>>>>>> Colocando as tabelas com dados no README.md
 
 ### Motivação e contexto
 
