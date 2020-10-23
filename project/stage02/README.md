@@ -2,7 +2,11 @@
 
 ### Slides
 
+<<<<<<< HEAD
 [slides](https://github.com/matheus-hatzlhoffer/mc536/blob/master/project/stage02/Proposta%20Projeto%20Banco%20de%20Dados.pdf)
+=======
+[slides](link dos lides)
+>>>>>>> Colocando as tabelas com dados no README.md
 
 ### Motivação e contexto
 
@@ -19,3 +23,10 @@ Depois relacionar a mesma taxa de suícidio com o uso de redes sociais e o tempo
 E dentro do Brasil, analisar se temos a infraestrutura para lidar com esse tipo de situação analisando se estados com mais CAP's (centro de ajuda psicossocial) relamente levam a menos suícidios 
 
 ### Base de Dados
+
+| Data       | Link           
+|:-------------:|:-------------:|
+| World Happiness Report up to 2020| [link](https://www.kaggle.com/mathurinache/world-happiness-report?select=2020.csv) |
+| Suicide      | [link](https://ourworldindata.org/suicide)|
+| Stanford Network Analysis Project  | [link](https://snap.stanford.edu/data/#socnets)|
+|Centro de atenção psicosocial |[link](http://www.deepask.com.br/goes?page=Veja-ranking-de-municipios-do-Brasil-pelo-numero-de-suicidios)|
